@@ -70,7 +70,7 @@ dependencies:
   # Utilities
   dartz: ^0.10.1              # Functional programming
   logger: ^2.0.2              # Logging
-  permission_handler: ^10.1.0 # Permissions
+  permission_handler: ^11.0.1  # Permissions
 
   # Social Sharing
   share_plus: ^7.2.1
